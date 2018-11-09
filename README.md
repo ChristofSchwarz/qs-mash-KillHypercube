@@ -1,4 +1,4 @@
-# qs-mash-KillHypercube
+# Qlik Sense Mashup - Kill The Hypercube
 
 A Qlik Sense mashup Example to close hypercubes no longer used. This is the mashup shown in the Youtube videos in the Qlik OEM Channel: 
 https://youtu.be/-w-d1Am2cjY and https://youtu.be/2scb0r9bug8
